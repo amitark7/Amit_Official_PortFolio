@@ -13,8 +13,8 @@ export const Bio = {
     "https://drive.google.com/file/d/107iT9EClKc2Sdk7GRRr6bccUgpU1KSd7/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/amitkr077/",
   twitter: "https://twitter.com/Amitark",
-  insta: "https://www.instagram.com/amit_ark7/",
-  facebook: "https://www.facebook.com/profile.php?id=100012760477413",
+  insta: "https://www.instagram.com/amit.kr.03/",
+  facebook: "",
 };
 
 export const skills = [
